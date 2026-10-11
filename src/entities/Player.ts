@@ -4,6 +4,7 @@ import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader.js';
 import type { InputController } from '../core/InputController';
 import type { CameraRig } from '../systems/CameraRig';
 import { disposeObject3D } from '../utils/dispose';
+import { downscaleSceneTextures } from '../utils/modelCache';
 import {
   MAINFRAME_POSITION,
   PLAYER_MAX_HP,
@@ -337,6 +338,10 @@ export class Player {
       ]);
       const root = gltf.scene;
       if (idleFbx.animations[0]) applyIdlePoseCorrection(root, idleFbx.animations[0]);
+      // This model ships 4096x4096 textures (base color + normal + roughness)
+      // — uncompressed on the GPU that alone approaches the memory ceiling
+      // that crashes iOS Safari's WebGL context. See modelCache.ts.
+      downscaleSceneTextures(root);
 
       root.traverse((child) => {
         const mesh = child as THREE.Mesh;

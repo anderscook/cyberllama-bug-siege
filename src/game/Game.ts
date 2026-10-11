@@ -498,7 +498,7 @@ export class Game {
     const sun = new THREE.DirectionalLight('#dff2ff', 2.5);
     sun.position.set(-10, 18, 8);
     sun.castShadow = true;
-    sun.shadow.mapSize.set(2048, 2048);
+    sun.shadow.mapSize.set(1024, 1024); // mobile GPU memory headroom; 2048 was overkill for this scene's visible shadow detail
     sun.shadow.camera.near = 1;
     sun.shadow.camera.far = 60;
     sun.shadow.camera.left = -32;

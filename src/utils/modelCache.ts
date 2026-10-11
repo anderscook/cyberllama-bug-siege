@@ -5,6 +5,51 @@ const loader = new GLTFLoader();
 const cache = new Map<string, Promise<THREE.Object3D>>();
 
 /**
+ * Tripo's default export textures run up to 4096x4096 per map (base color +
+ * normal + roughness/metalness), ~3 per material. Uncompressed on the GPU
+ * that's tens of MB *per texture* with mipmaps — across the game's 8
+ * generated models it adds up to roughly 1GB of texture memory. Desktop and
+ * Android Chrome absorb that fine; iOS Safari's WebGL context does not and
+ * silently kills the tab under memory pressure. None of these assets render
+ * larger than a few hundred pixels on screen in actual gameplay, so this cap
+ * is not a visible quality loss in practice.
+ */
+const MAX_TEXTURE_SIZE = 1024;
+
+function downscaleTexture(texture: THREE.Texture, maxSize: number): void {
+  const image = texture.image as { width?: number; height?: number } | undefined;
+  if (!image?.width || !image.height || Math.max(image.width, image.height) <= maxSize) return;
+  const scale = maxSize / Math.max(image.width, image.height);
+  const canvas = document.createElement('canvas');
+  canvas.width = Math.max(1, Math.round(image.width * scale));
+  canvas.height = Math.max(1, Math.round(image.height * scale));
+  const ctx = canvas.getContext('2d');
+  if (!ctx) return;
+  ctx.drawImage(image as CanvasImageSource, 0, 0, canvas.width, canvas.height);
+  texture.image = canvas;
+  texture.needsUpdate = true;
+}
+
+/** Downscales every texture map (color, normal, roughness, emissive, ...) on every material in a loaded scene, in place. */
+export function downscaleSceneTextures(root: THREE.Object3D, maxSize = MAX_TEXTURE_SIZE): void {
+  const seen = new Set<THREE.Texture>();
+  root.traverse((child) => {
+    const mesh = child as THREE.Mesh;
+    if (!mesh.isMesh) return;
+    const materials = Array.isArray(mesh.material) ? mesh.material : [mesh.material];
+    for (const material of materials) {
+      for (const value of Object.values(material as unknown as Record<string, unknown>)) {
+        const texture = value as THREE.Texture | undefined;
+        if (texture && typeof texture === 'object' && texture.isTexture && !seen.has(texture)) {
+          seen.add(texture);
+          downscaleTexture(texture, maxSize);
+        }
+      }
+    }
+  });
+}
+
+/**
  * Fetches a GLB once per URL and caches the promise; callers `.clone()` the
  * resolved template per instance. Only for static, non-skinned meshes
  * (props, creatures animated by the caller's own code) — geometry/material
@@ -24,6 +69,10 @@ export function loadModelTemplate(url: string): Promise<THREE.Object3D> {
           mesh.receiveShadow = true;
         }
       });
+      // Downscale once on the shared template — every clone's materials are
+      // cloned from these (clone() copies the texture reference, not the
+      // pixels), so this single pass covers every instance for free.
+      downscaleSceneTextures(template);
       return template;
     });
     cache.set(url, cached);
