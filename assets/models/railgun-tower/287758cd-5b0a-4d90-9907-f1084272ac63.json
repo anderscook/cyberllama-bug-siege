@@ -1,0 +1,38 @@
+{
+  "task_id": "287758cd-5b0a-4d90-9907-f1084272ac63",
+  "type": "text_to_model",
+  "status": "success",
+  "input": {
+    "prompt": "stylized sci-fi railgun sentry turret for a tower-defense game, heavy twin electromagnetic rail coils running along a long single barrel, chunky armored base with exposed capacitor cells glowing pale blue-white, kinetic weapon silhouette distinct from a laser turret, dark gunmetal plating, game-ready, clean topology, centered pivot, no text",
+    "model_version": "v3.1-20260211",
+    "texture": true,
+    "pbr": true,
+    "texture_quality": "standard",
+    "texture_alignment": "geometry",
+    "export_uv": true,
+    "face_limit": 5000,
+    "geometry_quality": "standard"
+  },
+  "output": {
+    "pbr_model": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261011/287758cd-5b0a-4d90-9907-f1084272ac63/tripo_pbr_model_287758cd-5b0a-4d90-9907-f1084272ac63.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTEvMjg3NzU4Y2QtNWIwYS00ZDkwLTk5MDctZjEwODQyNzJhYzYzL3RyaXBvX3Bicl9tb2RlbF8yODc3NThjZC01YjBhLTRkOTAtOTkwNy1mMTA4NDI3MmFjNjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNzYzMjAwfX19XX0_&Signature=B~dINQL0pLbkzig6ghUlRX9d4kzrR7Zr4Py5psZxzhFoxjuMNabZDoQ7FCMXrtgHj80r-Qx7OBG9y-sRuUnPFBSzJS2HB2O5rYmVEDrWPLpGsqguXz5SonJFLzS1ATLq~CEpVFL2xbOznGZlRU9YdMePJ-yuYa8I7LfmKwVG1Bu4oVyz~KHYrghOqNny85D5mWz2uIZ7-tURWa6VVA112L6-MAzwB7bNZX3H7Gz75Cee-eS-Bq41zdsJDT3vavo7rnXFbzXdpMM8DFVvYfzVXGdfK1Vmg9wTi1x4OxanjMAqJdRCWnQPFFe4uvyyh2AUfilMpCuMF1RGpAXFYb0cpA__",
+    "generated_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261011/287758cd-5b0a-4d90-9907-f1084272ac63/text2image_287758cd-5b0a-4d90-9907-f1084272ac63.jpeg?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTEvMjg3NzU4Y2QtNWIwYS00ZDkwLTk5MDctZjEwODQyNzJhYzYzL3RleHQyaW1hZ2VfMjg3NzU4Y2QtNWIwYS00ZDkwLTk5MDctZjEwODQyNzJhYzYzLmpwZWciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE3NjMyMDB9fX1dfQ__&Signature=dXwza1TTJZ8kZwstvJ5ZaQG3ygZBagC7vAstOtWPeZlO3OQ32MSGqqVJJHWajvNPeY9jdqlsR7O4A2awcZGpnXxF8-FRtKmhFtjb6bTmM1K7UPn501Cau4ZPC~ldAnhmMymz9TZAwOEVJKzEJGtQnnohOm5DxRG4~V8WALd4RYoYEdgk3yILmT0W9S2DqRGO2rKnfhF2heEEdOit8Ndlb9k3PNdVuNthlZ1u49DhxclBRfm4UpidfQ4kTdACou6tC8y0YeO4~ECJXwiUXq6NCWjM6DSpqQaErP2xkEufKfIOvF~hefcffdGTVyp0pnbgaHaT0DbnA6MTooOQXs0o1Q__",
+    "rendered_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261011/287758cd-5b0a-4d90-9907-f1084272ac63/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTEvMjg3NzU4Y2QtNWIwYS00ZDkwLTk5MDctZjEwODQyNzJhYzYzL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE3NjMyMDB9fX1dfQ__&Signature=V7jdxsa5z4QiycY~ehNPz33JwAu0-02BMIO7Y-mc2FClD5r4tRM08g8tzVdP4SdwVoTxwpnHhKS~uBnARLn8YSS4JTbTmRSFAzn8cI4LMOwungQAW8ojJEf3ZpIu89d51S7Yx942pKcrc3lWNl-3q3yPQil7ry0zc5ibRi584maEA0Pp8VGE9ADSnU~Ao4no8fQfjV0XUwpb-c6TSksBXbMnuyLUe6DCpEu9aIuerNpUwKY96DA7puWC5Xxi62jT30J4todhbaYgDeFPsMH2ue10lENXkG8DXP6Nn3MDYOVzyrIkc0HLxkyLJj4UGGRIv8w8b20E-1TeMyCcLjl-gg__"
+  },
+  "progress": 100,
+  "create_time": 1791733983,
+  "consumed_credit": 20,
+  "prompt": "stylized sci-fi railgun sentry turret for a tower-defense game, heavy twin electromagnetic rail coils running along a long single barrel, chunky armored base with exposed capacitor cells glowing pale blue-white, kinetic weapon silhouette distinct from a laser turret, dark gunmetal plating, game-ready, clean topology, centered pivot, no text",
+  "thumbnail": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261011/287758cd-5b0a-4d90-9907-f1084272ac63/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTEvMjg3NzU4Y2QtNWIwYS00ZDkwLTk5MDctZjEwODQyNzJhYzYzL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE3NjMyMDB9fX1dfQ__&Signature=V7jdxsa5z4QiycY~ehNPz33JwAu0-02BMIO7Y-mc2FClD5r4tRM08g8tzVdP4SdwVoTxwpnHhKS~uBnARLn8YSS4JTbTmRSFAzn8cI4LMOwungQAW8ojJEf3ZpIu89d51S7Yx942pKcrc3lWNl-3q3yPQil7ry0zc5ibRi584maEA0Pp8VGE9ADSnU~Ao4no8fQfjV0XUwpb-c6TSksBXbMnuyLUe6DCpEu9aIuerNpUwKY96DA7puWC5Xxi62jT30J4todhbaYgDeFPsMH2ue10lENXkG8DXP6Nn3MDYOVzyrIkc0HLxkyLJj4UGGRIv8w8b20E-1TeMyCcLjl-gg__",
+  "queuing_num": -1,
+  "running_left_time": -1,
+  "result": {
+    "pbr_model": {
+      "type": "glb",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261011/287758cd-5b0a-4d90-9907-f1084272ac63/tripo_pbr_model_287758cd-5b0a-4d90-9907-f1084272ac63.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTEvMjg3NzU4Y2QtNWIwYS00ZDkwLTk5MDctZjEwODQyNzJhYzYzL3RyaXBvX3Bicl9tb2RlbF8yODc3NThjZC01YjBhLTRkOTAtOTkwNy1mMTA4NDI3MmFjNjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNzYzMjAwfX19XX0_&Signature=B~dINQL0pLbkzig6ghUlRX9d4kzrR7Zr4Py5psZxzhFoxjuMNabZDoQ7FCMXrtgHj80r-Qx7OBG9y-sRuUnPFBSzJS2HB2O5rYmVEDrWPLpGsqguXz5SonJFLzS1ATLq~CEpVFL2xbOznGZlRU9YdMePJ-yuYa8I7LfmKwVG1Bu4oVyz~KHYrghOqNny85D5mWz2uIZ7-tURWa6VVA112L6-MAzwB7bNZX3H7Gz75Cee-eS-Bq41zdsJDT3vavo7rnXFbzXdpMM8DFVvYfzVXGdfK1Vmg9wTi1x4OxanjMAqJdRCWnQPFFe4uvyyh2AUfilMpCuMF1RGpAXFYb0cpA__"
+    },
+    "rendered_image": {
+      "type": "webp",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261011/287758cd-5b0a-4d90-9907-f1084272ac63/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTEvMjg3NzU4Y2QtNWIwYS00ZDkwLTk5MDctZjEwODQyNzJhYzYzL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE3NjMyMDB9fX1dfQ__&Signature=V7jdxsa5z4QiycY~ehNPz33JwAu0-02BMIO7Y-mc2FClD5r4tRM08g8tzVdP4SdwVoTxwpnHhKS~uBnARLn8YSS4JTbTmRSFAzn8cI4LMOwungQAW8ojJEf3ZpIu89d51S7Yx942pKcrc3lWNl-3q3yPQil7ry0zc5ibRi584maEA0Pp8VGE9ADSnU~Ao4no8fQfjV0XUwpb-c6TSksBXbMnuyLUe6DCpEu9aIuerNpUwKY96DA7puWC5Xxi62jT30J4todhbaYgDeFPsMH2ue10lENXkG8DXP6Nn3MDYOVzyrIkc0HLxkyLJj4UGGRIv8w8b20E-1TeMyCcLjl-gg__"
+    }
+  }
+}

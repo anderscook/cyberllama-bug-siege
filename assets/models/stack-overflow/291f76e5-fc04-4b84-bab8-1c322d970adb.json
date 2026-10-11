@@ -1,0 +1,38 @@
+{
+  "task_id": "291f76e5-fc04-4b84-bab8-1c322d970adb",
+  "type": "text_to_model",
+  "status": "success",
+  "input": {
+    "prompt": "stylized large armored mechanical beetle-tank creature for a sci-fi tower-defense game, heavy rust-orange segmented armor plating, glowing orange emissive cracks, spiked carapace on its back, bulky intimidating hunched silhouette, short sturdy legs, game-ready, clean topology, centered pivot, no text",
+    "model_version": "v3.1-20260211",
+    "texture": true,
+    "pbr": true,
+    "texture_quality": "standard",
+    "texture_alignment": "geometry",
+    "export_uv": true,
+    "face_limit": 6000,
+    "geometry_quality": "standard"
+  },
+  "output": {
+    "pbr_model": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/291f76e5-fc04-4b84-bab8-1c322d970adb/tripo_pbr_model_291f76e5-fc04-4b84-bab8-1c322d970adb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMjkxZjc2ZTUtZmMwNC00Yjg0LWJhYjgtMWMzMjJkOTcwYWRiL3RyaXBvX3Bicl9tb2RlbF8yOTFmNzZlNS1mYzA0LTRiODQtYmFiOC0xYzMyMmQ5NzBhZGIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=QEtz077B2YWfndwpdxVntUIGI-XeWVlBQLQz-0YpaPaBnsbuaB2BCcgWqBsbL6pb~7hnu5nq8awFBs-M6PKnIyNXvSYGTZ-tx9dvJShB2E6Eg7tBVAEvbpwpltYWcGmiINSIVO6vh2f~Q3QcNF4zg4kwDJMVigOU0GkuCBC8bHny78JMwcDxQaVlUvFNFGi0EhFm1p0Xxy-btLNCw2gwXAMpbn3m9th~tBG7txTn-tQiSrxKbr~n5q1SgCRH5gjdsPZURcKtw-9mXCy3xRO7r6weNcOR9JdVP4NVddcpKQWfU4IcYNi8QrP9rBAla3JtP0bACSCIBPxiNsoeXVsczA__",
+    "generated_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/291f76e5-fc04-4b84-bab8-1c322d970adb/text2image_291f76e5-fc04-4b84-bab8-1c322d970adb.jpeg?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMjkxZjc2ZTUtZmMwNC00Yjg0LWJhYjgtMWMzMjJkOTcwYWRiL3RleHQyaW1hZ2VfMjkxZjc2ZTUtZmMwNC00Yjg0LWJhYjgtMWMzMjJkOTcwYWRiLmpwZWciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=ET68bdUeo0WGunwlfFg2qobbWj3YSCzEZ0AmsPODtJ8uM0UY~WMfHlmRia886KoD3iH7K9~OKoed-cKBaMbwuXi46Y9A-Z5BbL0uxILm7UrSzZ~sbgnNPuR8~4khgJ9XFE0370h5zWibCJT8yDUWJZL7~hIWNzV2RZ0tOyTP~0Ea4sGNEupx-f02pvFAexxhx0aSr5HIemqg01j7ZtCGc~pgZ7skY5SgwhIgqUFh0rSV53fmHlzAlncAIFEvGgw-xgHieSA2vSg8J3jFms8ChCCGwyr-TyGQnIm8kRbltch~OQ633xB9JeSakTlPlXHWEQiy2We3Rrgr8BVY2peFMA__",
+    "rendered_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/291f76e5-fc04-4b84-bab8-1c322d970adb/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMjkxZjc2ZTUtZmMwNC00Yjg0LWJhYjgtMWMzMjJkOTcwYWRiL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=udl6~YgVegXMLc7jdpf01xH6oAdvw2tTgMMU1HqXwu6HEC8HEfN~21y~x2y03W2WECfdAhiLfhYIDD4hE227kPHKJnqwNhD6vs~WzJ~FnvFL4FAOjWxYBvxPiaMht8VQMVadtnFhW~EQh81XCF7Ygdh2QNXKhBeDCc4sXX2D5bKivfYcNLjznKpp7~V1RrrVAV9i4jnWEXTphjPgQs5rQAXhL8adTRYuKGHMhwB-wEzPnO9z6nSWh~AKO5DVmNqzMpZPWtv0dFKnwjaad~UwTy9fhYrxZt0QduRrOoJRj89GCm3uD~PiEe2AJFT8R98xKbqUxjBV44ySnb-NcFEGGw__"
+  },
+  "progress": 100,
+  "create_time": 1791643349,
+  "consumed_credit": 20,
+  "prompt": "stylized large armored mechanical beetle-tank creature for a sci-fi tower-defense game, heavy rust-orange segmented armor plating, glowing orange emissive cracks, spiked carapace on its back, bulky intimidating hunched silhouette, short sturdy legs, game-ready, clean topology, centered pivot, no text",
+  "thumbnail": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/291f76e5-fc04-4b84-bab8-1c322d970adb/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMjkxZjc2ZTUtZmMwNC00Yjg0LWJhYjgtMWMzMjJkOTcwYWRiL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=udl6~YgVegXMLc7jdpf01xH6oAdvw2tTgMMU1HqXwu6HEC8HEfN~21y~x2y03W2WECfdAhiLfhYIDD4hE227kPHKJnqwNhD6vs~WzJ~FnvFL4FAOjWxYBvxPiaMht8VQMVadtnFhW~EQh81XCF7Ygdh2QNXKhBeDCc4sXX2D5bKivfYcNLjznKpp7~V1RrrVAV9i4jnWEXTphjPgQs5rQAXhL8adTRYuKGHMhwB-wEzPnO9z6nSWh~AKO5DVmNqzMpZPWtv0dFKnwjaad~UwTy9fhYrxZt0QduRrOoJRj89GCm3uD~PiEe2AJFT8R98xKbqUxjBV44ySnb-NcFEGGw__",
+  "queuing_num": -1,
+  "running_left_time": -1,
+  "result": {
+    "pbr_model": {
+      "type": "glb",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/291f76e5-fc04-4b84-bab8-1c322d970adb/tripo_pbr_model_291f76e5-fc04-4b84-bab8-1c322d970adb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMjkxZjc2ZTUtZmMwNC00Yjg0LWJhYjgtMWMzMjJkOTcwYWRiL3RyaXBvX3Bicl9tb2RlbF8yOTFmNzZlNS1mYzA0LTRiODQtYmFiOC0xYzMyMmQ5NzBhZGIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=QEtz077B2YWfndwpdxVntUIGI-XeWVlBQLQz-0YpaPaBnsbuaB2BCcgWqBsbL6pb~7hnu5nq8awFBs-M6PKnIyNXvSYGTZ-tx9dvJShB2E6Eg7tBVAEvbpwpltYWcGmiINSIVO6vh2f~Q3QcNF4zg4kwDJMVigOU0GkuCBC8bHny78JMwcDxQaVlUvFNFGi0EhFm1p0Xxy-btLNCw2gwXAMpbn3m9th~tBG7txTn-tQiSrxKbr~n5q1SgCRH5gjdsPZURcKtw-9mXCy3xRO7r6weNcOR9JdVP4NVddcpKQWfU4IcYNi8QrP9rBAla3JtP0bACSCIBPxiNsoeXVsczA__"
+    },
+    "rendered_image": {
+      "type": "webp",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/291f76e5-fc04-4b84-bab8-1c322d970adb/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMjkxZjc2ZTUtZmMwNC00Yjg0LWJhYjgtMWMzMjJkOTcwYWRiL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=udl6~YgVegXMLc7jdpf01xH6oAdvw2tTgMMU1HqXwu6HEC8HEfN~21y~x2y03W2WECfdAhiLfhYIDD4hE227kPHKJnqwNhD6vs~WzJ~FnvFL4FAOjWxYBvxPiaMht8VQMVadtnFhW~EQh81XCF7Ygdh2QNXKhBeDCc4sXX2D5bKivfYcNLjznKpp7~V1RrrVAV9i4jnWEXTphjPgQs5rQAXhL8adTRYuKGHMhwB-wEzPnO9z6nSWh~AKO5DVmNqzMpZPWtv0dFKnwjaad~UwTy9fhYrxZt0QduRrOoJRj89GCm3uD~PiEe2AJFT8R98xKbqUxjBV44ySnb-NcFEGGw__"
+    }
+  }
+}

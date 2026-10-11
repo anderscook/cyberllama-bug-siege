@@ -1,0 +1,38 @@
+{
+  "task_id": "dba09469-2c7a-46c6-8488-790d4b2a6866",
+  "type": "text_to_model",
+  "status": "success",
+  "input": {
+    "prompt": "stylized giant monstrous spaghetti-noodle creature boss for a comedic sci-fi tower-defense game, tangled thick yellow noodle tentacle limbs writhing around a central red tomato-sauce-colored core body, meatball protrusions studding its body, glowing menacing yellow eyes, slightly absurd but imposing boss-scale silhouette, game-ready, clean topology, centered pivot, no text",
+    "model_version": "v3.1-20260211",
+    "texture": true,
+    "pbr": true,
+    "texture_quality": "detailed",
+    "texture_alignment": "geometry",
+    "export_uv": true,
+    "face_limit": 20000,
+    "geometry_quality": "standard"
+  },
+  "output": {
+    "pbr_model": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/dba09469-2c7a-46c6-8488-790d4b2a6866/tripo_pbr_model_dba09469-2c7a-46c6-8488-790d4b2a6866.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvZGJhMDk0NjktMmM3YS00NmM2LTg0ODgtNzkwZDRiMmE2ODY2L3RyaXBvX3Bicl9tb2RlbF9kYmEwOTQ2OS0yYzdhLTQ2YzYtODQ4OC03OTBkNGIyYTY4NjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=poji9oJ86sQ-HUtAOh8OyFjKrP01uRPDRy8VBscXa8swuoyDf48PYznWAtq5T6kieSMl-ewV6dUID3~B0EHu3d6tPs9m2ljSxiu6iJFvdszrVsiuTokx79kUWzHhO-kTUR6oc-JUs7UaqJmuhLUD1ru3MsJr6IEfb11Bshs1BQ5wozyQ-8aogGfOO7RLwpvo3Am6LmDsGFlkh-BSB9BWNZ9UHd86X9kbsvBb0aylUkZ2yyH35Qo9diP9-~MMrKkndFpT3HcEwn8P6cwvzb63U3YBO4gfKEcvu8xg2JjI3jJECvcm40wFEF28PfgKXbSVHCZ2g~iVu2hzW29pxBa8sg__",
+    "generated_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/dba09469-2c7a-46c6-8488-790d4b2a6866/text2image_dba09469-2c7a-46c6-8488-790d4b2a6866.jpeg?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvZGJhMDk0NjktMmM3YS00NmM2LTg0ODgtNzkwZDRiMmE2ODY2L3RleHQyaW1hZ2VfZGJhMDk0NjktMmM3YS00NmM2LTg0ODgtNzkwZDRiMmE2ODY2LmpwZWciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=dL5xkm477xBU0iJ-qeavpao--CrAP5qKuyjy1fBKLVfffcs7LUDb69tBVyXFb8fp3zJwpPxqidKClxh2rWxB3p-nIdsOpz59WLIeqG9OgV3jn7lyCEEkw1GYrpsWHT0GUq26wmop5XIyUYnHfpcNuzoAlxnxmDgjimjdMCSr7eYVYlvup8ORmHqjWSLYY-5lufzHs6Qv4NXOmCCqLuYOxZJej~kqLakygc7vJ4W~NtJ96P~ijdlNsUCbSHHimk43S~JRaGC6C6xFCpH-XyThJ1S928uZOKdWZxvu8F5-QK7habzGgkkCuiUnx8EJyhDx8Wpb69zwj4z0l2uTFNg32w__",
+    "rendered_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/dba09469-2c7a-46c6-8488-790d4b2a6866/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvZGJhMDk0NjktMmM3YS00NmM2LTg0ODgtNzkwZDRiMmE2ODY2L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=Ut8WW0P7WhlnuL5oT9A4TP-QK5ngG-mb5Owuh11K6pskCwaBm5kdwvE16HAxN8cNlCCxlPGI3zLeh2ngzD5Da41-ke-bbDVBh-q~uUz6Qr2oVzuTEf0mhj9ia~ABEi~AlWDxfLx9XIpYemU4U1ds0bH7qV-ZU5vY~hdpPRk03EauSTd0n2JQ-LunPsJUqM0gHjY1zTqD5Pk06HngKvb63x6U7Gd-~ePTwcPnRL~1A9woBfCxMedaf5ZCJXixyikeOsbaVkwRcngCuQFZGA79hvMA3s8zRWkY2Bn1lo-TSGZK3AUOd-9FnjT0-bEWuQ8axpwGTkLL1a61OiaOgjNBTQ__"
+  },
+  "progress": 100,
+  "create_time": 1791643512,
+  "consumed_credit": 30,
+  "prompt": "stylized giant monstrous spaghetti-noodle creature boss for a comedic sci-fi tower-defense game, tangled thick yellow noodle tentacle limbs writhing around a central red tomato-sauce-colored core body, meatball protrusions studding its body, glowing menacing yellow eyes, slightly absurd but imposing boss-scale silhouette, game-ready, clean topology, centered pivot, no text",
+  "thumbnail": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/dba09469-2c7a-46c6-8488-790d4b2a6866/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvZGJhMDk0NjktMmM3YS00NmM2LTg0ODgtNzkwZDRiMmE2ODY2L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=Ut8WW0P7WhlnuL5oT9A4TP-QK5ngG-mb5Owuh11K6pskCwaBm5kdwvE16HAxN8cNlCCxlPGI3zLeh2ngzD5Da41-ke-bbDVBh-q~uUz6Qr2oVzuTEf0mhj9ia~ABEi~AlWDxfLx9XIpYemU4U1ds0bH7qV-ZU5vY~hdpPRk03EauSTd0n2JQ-LunPsJUqM0gHjY1zTqD5Pk06HngKvb63x6U7Gd-~ePTwcPnRL~1A9woBfCxMedaf5ZCJXixyikeOsbaVkwRcngCuQFZGA79hvMA3s8zRWkY2Bn1lo-TSGZK3AUOd-9FnjT0-bEWuQ8axpwGTkLL1a61OiaOgjNBTQ__",
+  "queuing_num": -1,
+  "running_left_time": -1,
+  "result": {
+    "pbr_model": {
+      "type": "glb",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/dba09469-2c7a-46c6-8488-790d4b2a6866/tripo_pbr_model_dba09469-2c7a-46c6-8488-790d4b2a6866.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvZGJhMDk0NjktMmM3YS00NmM2LTg0ODgtNzkwZDRiMmE2ODY2L3RyaXBvX3Bicl9tb2RlbF9kYmEwOTQ2OS0yYzdhLTQ2YzYtODQ4OC03OTBkNGIyYTY4NjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=poji9oJ86sQ-HUtAOh8OyFjKrP01uRPDRy8VBscXa8swuoyDf48PYznWAtq5T6kieSMl-ewV6dUID3~B0EHu3d6tPs9m2ljSxiu6iJFvdszrVsiuTokx79kUWzHhO-kTUR6oc-JUs7UaqJmuhLUD1ru3MsJr6IEfb11Bshs1BQ5wozyQ-8aogGfOO7RLwpvo3Am6LmDsGFlkh-BSB9BWNZ9UHd86X9kbsvBb0aylUkZ2yyH35Qo9diP9-~MMrKkndFpT3HcEwn8P6cwvzb63U3YBO4gfKEcvu8xg2JjI3jJECvcm40wFEF28PfgKXbSVHCZ2g~iVu2hzW29pxBa8sg__"
+    },
+    "rendered_image": {
+      "type": "webp",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/dba09469-2c7a-46c6-8488-790d4b2a6866/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvZGJhMDk0NjktMmM3YS00NmM2LTg0ODgtNzkwZDRiMmE2ODY2L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=Ut8WW0P7WhlnuL5oT9A4TP-QK5ngG-mb5Owuh11K6pskCwaBm5kdwvE16HAxN8cNlCCxlPGI3zLeh2ngzD5Da41-ke-bbDVBh-q~uUz6Qr2oVzuTEf0mhj9ia~ABEi~AlWDxfLx9XIpYemU4U1ds0bH7qV-ZU5vY~hdpPRk03EauSTd0n2JQ-LunPsJUqM0gHjY1zTqD5Pk06HngKvb63x6U7Gd-~ePTwcPnRL~1A9woBfCxMedaf5ZCJXixyikeOsbaVkwRcngCuQFZGA79hvMA3s8zRWkY2Bn1lo-TSGZK3AUOd-9FnjT0-bEWuQ8axpwGTkLL1a61OiaOgjNBTQ__"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "task_id": "5631a1e3-7cdc-4e63-b415-0fd7e6658eb6",
+  "type": "text_to_model",
+  "status": "success",
+  "input": {
+    "prompt": "stylized sci-fi defense turret for a tower-defense game, compact cylindrical base with a rotating sensor dome head and mounted twin barrel, dark teal-black metal plating with glowing cyan energy core and circuit trim, sturdy futuristic silhouette, game-ready, clean topology, centered pivot, no text",
+    "model_version": "v3.1-20260211",
+    "texture": true,
+    "pbr": true,
+    "texture_quality": "standard",
+    "texture_alignment": "geometry",
+    "export_uv": true,
+    "face_limit": 5000,
+    "geometry_quality": "standard"
+  },
+  "output": {
+    "pbr_model": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/5631a1e3-7cdc-4e63-b415-0fd7e6658eb6/tripo_pbr_model_5631a1e3-7cdc-4e63-b415-0fd7e6658eb6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTYzMWExZTMtN2NkYy00ZTYzLWI0MTUtMGZkN2U2NjU4ZWI2L3RyaXBvX3Bicl9tb2RlbF81NjMxYTFlMy03Y2RjLTRlNjMtYjQxNS0wZmQ3ZTY2NThlYjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=uJQPpm2Z~EoGOyPYjBkabtaYvHMjm8YRD37p61stiAPzkSqiYPs9fZGrdmyam1Rg6xfWT-7OWLCHA7LO8J~nicHhxflJaP3Ir6FWsj1PG4s~RpCFLyp7ylbvp~UyTC5MdXeHACVDT7MiLJYz4f~s6aGQe4V8~uLpUZn6qIbETAEJlukV51uYhZ1DqbxVTaJEnOWhhbvw~D1DOZoJ5DSVCt97V15OxW0prOglnDLWTXUe8EGC5hDGiHADy5VzQFYRm-zxuFezv2Kpi~OndUQkSthZFJawGy7WKYrH7Kaa44YxKdxMJB3ENjgFpj5G08FrOwsUJchgAkhxlRxx9y~Wmg__",
+    "generated_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/5631a1e3-7cdc-4e63-b415-0fd7e6658eb6/text2image_5631a1e3-7cdc-4e63-b415-0fd7e6658eb6.jpeg?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTYzMWExZTMtN2NkYy00ZTYzLWI0MTUtMGZkN2U2NjU4ZWI2L3RleHQyaW1hZ2VfNTYzMWExZTMtN2NkYy00ZTYzLWI0MTUtMGZkN2U2NjU4ZWI2LmpwZWciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=gJeBmt1cfvFLHGQg23lStwk8-F~jm9E3X7XxkLjQynkPxC7ykgjYnTNZelcbfnsg2PJ32P9mRRAuQ8RZy7WSe3p~sgIyL55z5ykISV3xvvCYLuH6jHf4Xg1vCSg3Gygwta7K~~mtvrrAvbEzeC5-Gn7voQCpqb6VWRhGzEfANl7xmEnkYlrvDABMzz8g~42NccQKqjAkrO1KI96BNOvUbdw2AwiSIyckeDSpE109aeH-09JVsrtmOht8bpa-Rv4ohgUeoVRRRUMO4rD5q7wOj57I3TIBdISjNAtxsd39InMVs~yQWh7-5ysFfITxKHJ2zqPYOFHd2u0LlF3nBkhFNA__",
+    "rendered_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/5631a1e3-7cdc-4e63-b415-0fd7e6658eb6/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTYzMWExZTMtN2NkYy00ZTYzLWI0MTUtMGZkN2U2NjU4ZWI2L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=fI3JK2~RQl6Eh39RetFLafEKi1fvYnIZH0u~9qwbrn4rMAzAqGDUecPI1zarCmXjcApYh2cHEW3faOrFQLJZLyMPEXzz3XBPMO3mstQQmct8cmYtNMUnAjmTMw8ZylXLyXyVRm-U829ukPpAea-4HemGzrRRvZi2iWkQn7rlv21zCHvYDTgDOXX4sRVnnRXC1rx4I69RlzZlNsPyi7hapg2ZhWPl420hVLplyU190I2u872u9YRq4bba9rKCshqa-QzP6t7LHekQs6ejp1RDS-vt6UEdRxdbAYu9ls6CP33xb~ewSK1rJ0fzgl4fqYUppVKuhJhvhsU4qMUN2oqTaQ__"
+  },
+  "progress": 100,
+  "create_time": 1791643701,
+  "consumed_credit": 20,
+  "prompt": "stylized sci-fi defense turret for a tower-defense game, compact cylindrical base with a rotating sensor dome head and mounted twin barrel, dark teal-black metal plating with glowing cyan energy core and circuit trim, sturdy futuristic silhouette, game-ready, clean topology, centered pivot, no text",
+  "thumbnail": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/5631a1e3-7cdc-4e63-b415-0fd7e6658eb6/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTYzMWExZTMtN2NkYy00ZTYzLWI0MTUtMGZkN2U2NjU4ZWI2L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=fI3JK2~RQl6Eh39RetFLafEKi1fvYnIZH0u~9qwbrn4rMAzAqGDUecPI1zarCmXjcApYh2cHEW3faOrFQLJZLyMPEXzz3XBPMO3mstQQmct8cmYtNMUnAjmTMw8ZylXLyXyVRm-U829ukPpAea-4HemGzrRRvZi2iWkQn7rlv21zCHvYDTgDOXX4sRVnnRXC1rx4I69RlzZlNsPyi7hapg2ZhWPl420hVLplyU190I2u872u9YRq4bba9rKCshqa-QzP6t7LHekQs6ejp1RDS-vt6UEdRxdbAYu9ls6CP33xb~ewSK1rJ0fzgl4fqYUppVKuhJhvhsU4qMUN2oqTaQ__",
+  "queuing_num": -1,
+  "running_left_time": -1,
+  "result": {
+    "pbr_model": {
+      "type": "glb",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/5631a1e3-7cdc-4e63-b415-0fd7e6658eb6/tripo_pbr_model_5631a1e3-7cdc-4e63-b415-0fd7e6658eb6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTYzMWExZTMtN2NkYy00ZTYzLWI0MTUtMGZkN2U2NjU4ZWI2L3RyaXBvX3Bicl9tb2RlbF81NjMxYTFlMy03Y2RjLTRlNjMtYjQxNS0wZmQ3ZTY2NThlYjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=uJQPpm2Z~EoGOyPYjBkabtaYvHMjm8YRD37p61stiAPzkSqiYPs9fZGrdmyam1Rg6xfWT-7OWLCHA7LO8J~nicHhxflJaP3Ir6FWsj1PG4s~RpCFLyp7ylbvp~UyTC5MdXeHACVDT7MiLJYz4f~s6aGQe4V8~uLpUZn6qIbETAEJlukV51uYhZ1DqbxVTaJEnOWhhbvw~D1DOZoJ5DSVCt97V15OxW0prOglnDLWTXUe8EGC5hDGiHADy5VzQFYRm-zxuFezv2Kpi~OndUQkSthZFJawGy7WKYrH7Kaa44YxKdxMJB3ENjgFpj5G08FrOwsUJchgAkhxlRxx9y~Wmg__"
+    },
+    "rendered_image": {
+      "type": "webp",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/5631a1e3-7cdc-4e63-b415-0fd7e6658eb6/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTYzMWExZTMtN2NkYy00ZTYzLWI0MTUtMGZkN2U2NjU4ZWI2L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=fI3JK2~RQl6Eh39RetFLafEKi1fvYnIZH0u~9qwbrn4rMAzAqGDUecPI1zarCmXjcApYh2cHEW3faOrFQLJZLyMPEXzz3XBPMO3mstQQmct8cmYtNMUnAjmTMw8ZylXLyXyVRm-U829ukPpAea-4HemGzrRRvZi2iWkQn7rlv21zCHvYDTgDOXX4sRVnnRXC1rx4I69RlzZlNsPyi7hapg2ZhWPl420hVLplyU190I2u872u9YRq4bba9rKCshqa-QzP6t7LHekQs6ejp1RDS-vt6UEdRxdbAYu9ls6CP33xb~ewSK1rJ0fzgl4fqYUppVKuhJhvhsU4qMUN2oqTaQ__"
+    }
+  }
+}

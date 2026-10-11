@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0a0c10" />
+    <link rel="icon" href="data:," />
+    <title>CYBERLLAMA: BUG SIEGE</title>
+  </head>
+  <body>
+    <main id="app">
+      <canvas id="game-canvas" aria-label="Playable Three.js game canvas"></canvas>
+
+      <section id="hud" aria-live="polite">
+        <div id="hud-top-left">
+          <div class="bar-row">
+            <span class="bar-label">MAINFRAME</span>
+            <div class="bar-track mainframe-bar">
+              <div id="mainframe-hp-fill" class="bar-fill"></div>
+            </div>
+            <span id="mainframe-hp-value" class="bar-value">1000/1000</span>
+          </div>
+          <div class="bar-row">
+            <span class="bar-label">CYBERLLAMA</span>
+            <div class="bar-track player-bar">
+              <div id="player-hp-fill" class="bar-fill"></div>
+            </div>
+            <span id="player-hp-value" class="bar-value">100/100</span>
+          </div>
+        </div>
+
+        <div id="hud-top-right">
+          <div class="hud-metric">
+            <span>Wave</span>
+            <strong id="wave-value">1/6</strong>
+          </div>
+          <div class="hud-metric">
+            <span>Bits</span>
+            <strong id="bits-value">70</strong>
+          </div>
+          <div class="hud-metric">
+            <span>Phase</span>
+            <strong id="phase-value">Prep</strong>
+          </div>
+        </div>
+
+        <div id="boss-bar">
+          <span class="bar-label">THE SPAGHETTI</span>
+          <div class="bar-track boss-track">
+            <div id="boss-hp-fill" class="bar-fill"></div>
+          </div>
+        </div>
+
+        <div id="hud-bottom-left">
+          <div class="hud-metric weapon-metric">
+            <span>Weapon</span>
+            <strong id="weapon-value">Debug Blaster</strong>
+            <div class="bar-track cooldown-track">
+              <div id="weapon-cooldown-fill" class="bar-fill"></div>
+            </div>
+          </div>
+        </div>
+
+        <div id="prompt-banner"></div>
+        <div id="build-hint">BUILD MODE — 1: Gatling Cannon · 2: Railgun · fire on a pad to place · B to exit</div>
+      </section>
+
+      <div id="end-screen">
+        <div id="end-panel">
+          <h1 id="end-title">SYSTEM SECURED</h1>
+          <p id="end-subtitle">The Mainframe held.</p>
+          <button id="retry-button" type="button">Restart Run</button>
+        </div>
+      </div>
+
+      <div id="crosshair" aria-hidden="true"></div>
+
+      <div id="touch-controls" aria-hidden="true">
+        <div id="touch-stick">
+          <div id="touch-knob"></div>
+        </div>
+        <div id="touch-actions">
+          <button id="jump-button" class="touch-action" type="button">Jump</button>
+          <button id="dash-button" class="touch-action" type="button">Dash</button>
+          <button id="build-button" class="touch-action" type="button">Build</button>
+          <button id="repair-button" class="touch-action" type="button">Repair</button>
+        </div>
+        <button id="fire-button" type="button">Fire</button>
+        <div id="touch-look-stick">
+          <div id="touch-look-knob"></div>
+        </div>
+      </div>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

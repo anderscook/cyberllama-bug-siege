@@ -1,0 +1,38 @@
+{
+  "task_id": "033e8218-b20e-41b8-91c1-86730f5108ae",
+  "type": "text_to_model",
+  "status": "success",
+  "input": {
+    "prompt": "stylized sci-fi server tower pillar prop for a cyberpunk game environment, tall slender dark metal structure with glowing cyan circuit lines, vents and panel seams, futuristic data-center monolith aesthetic, game-ready, clean topology, centered pivot, no text",
+    "model_version": "v3.1-20260211",
+    "texture": true,
+    "pbr": true,
+    "texture_quality": "standard",
+    "texture_alignment": "geometry",
+    "export_uv": true,
+    "face_limit": 4000,
+    "geometry_quality": "standard"
+  },
+  "output": {
+    "pbr_model": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/033e8218-b20e-41b8-91c1-86730f5108ae/tripo_pbr_model_033e8218-b20e-41b8-91c1-86730f5108ae.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDMzZTgyMTgtYjIwZS00MWI4LTkxYzEtODY3MzBmNTEwOGFlL3RyaXBvX3Bicl9tb2RlbF8wMzNlODIxOC1iMjBlLTQxYjgtOTFjMS04NjczMGY1MTA4YWUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=aidq~dsbIv5LNwbzwrfWbgHa0jlqBZx2xAip~xBx~dO9ndO~30iXqUoJ2DZ9XOsor9WkbUHInarVxeGwYB4jAtQD~Ti5MTAnLwtrYHosBUKQB8ED-2WmoprIuyV~JUA6lkSoaJ3RzeJ4tzxO9kxPjo2Waj6PmhaN-ObjUmA6Y6MR3d7uE7uSONzwfaY7RRRXSRjL66S0kL3pCRp1IW12~AW6OtavIEZbjCKnG3414HR4cz4VtgYUFtRUyYHg-N87yKrzNvc9qHKU9q6qj5WrWTqoPU~nV5JbBd3djIM8sHI-WpZAAnkiniEp6oNBfOweF3IkWtg3RQTP8OzJHgb15w__",
+    "generated_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/033e8218-b20e-41b8-91c1-86730f5108ae/text2image_033e8218-b20e-41b8-91c1-86730f5108ae.jpeg?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDMzZTgyMTgtYjIwZS00MWI4LTkxYzEtODY3MzBmNTEwOGFlL3RleHQyaW1hZ2VfMDMzZTgyMTgtYjIwZS00MWI4LTkxYzEtODY3MzBmNTEwOGFlLmpwZWciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=gH3m2BXdwcKlXt8qoXh2GcleIfbsJX~HrLeKXMEffCEkn~HY1gv9xmAjA8wH3S0McpXjwrxisKw4ktXveYGk-dCbCNAeafeW-mDy7Xc~9M-baEQul0YkSmfFgq6gxYxWrvrcco7zG9FaYfNSL-46WW4ycGI-b1XLCuk69CD3kMuMiPr7Q~QnKoENEMRrUBSLj66bgYLy-B9rQ~IWVLZ4l~mf0M664jo~L8fnvSBwQ8fmZDW-v9fKEsYvN~K4YYvQwgQAUgONP3kR586M9ajDr4psybRA0MtDhZ-ZH8bmh-3A637zhsUCOECihSjAYWiJb-8YebFvDI~nQqMLaHevBg__",
+    "rendered_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/033e8218-b20e-41b8-91c1-86730f5108ae/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDMzZTgyMTgtYjIwZS00MWI4LTkxYzEtODY3MzBmNTEwOGFlL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=MMYfygtaMl2rHzALzJV84j203RYUV552pa6W7L8ovbgywQwkETnLOg1BRS4iJUUgzhTzxbVbPLE-GfADeT0U2iNBQe1XwnnzH-dX0z10c1BuA3P-XRZffG~w3Bx4FeouSTQ00kY3GlV-umZHWhbln73guMB4faOmBncW1G1~AoySKMNBoptpluD-lsAOBUyS1zZg0HS~KUIGf-8EEvIW-XnC1xIDhK2tukHNN7tp7e1BGqIUJMrsK44w1XNcWkXIIUDwo81dWzsoDkOm6cruvKcHX0qvzZD~YwwM~65wE2Jb9N3gynSkPe3qmjswZbjgPk91607qqfwpgiC1zTVViw__"
+  },
+  "progress": 100,
+  "create_time": 1791643858,
+  "consumed_credit": 20,
+  "prompt": "stylized sci-fi server tower pillar prop for a cyberpunk game environment, tall slender dark metal structure with glowing cyan circuit lines, vents and panel seams, futuristic data-center monolith aesthetic, game-ready, clean topology, centered pivot, no text",
+  "thumbnail": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/033e8218-b20e-41b8-91c1-86730f5108ae/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDMzZTgyMTgtYjIwZS00MWI4LTkxYzEtODY3MzBmNTEwOGFlL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=MMYfygtaMl2rHzALzJV84j203RYUV552pa6W7L8ovbgywQwkETnLOg1BRS4iJUUgzhTzxbVbPLE-GfADeT0U2iNBQe1XwnnzH-dX0z10c1BuA3P-XRZffG~w3Bx4FeouSTQ00kY3GlV-umZHWhbln73guMB4faOmBncW1G1~AoySKMNBoptpluD-lsAOBUyS1zZg0HS~KUIGf-8EEvIW-XnC1xIDhK2tukHNN7tp7e1BGqIUJMrsK44w1XNcWkXIIUDwo81dWzsoDkOm6cruvKcHX0qvzZD~YwwM~65wE2Jb9N3gynSkPe3qmjswZbjgPk91607qqfwpgiC1zTVViw__",
+  "queuing_num": -1,
+  "running_left_time": -1,
+  "result": {
+    "pbr_model": {
+      "type": "glb",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/033e8218-b20e-41b8-91c1-86730f5108ae/tripo_pbr_model_033e8218-b20e-41b8-91c1-86730f5108ae.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDMzZTgyMTgtYjIwZS00MWI4LTkxYzEtODY3MzBmNTEwOGFlL3RyaXBvX3Bicl9tb2RlbF8wMzNlODIxOC1iMjBlLTQxYjgtOTFjMS04NjczMGY1MTA4YWUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=aidq~dsbIv5LNwbzwrfWbgHa0jlqBZx2xAip~xBx~dO9ndO~30iXqUoJ2DZ9XOsor9WkbUHInarVxeGwYB4jAtQD~Ti5MTAnLwtrYHosBUKQB8ED-2WmoprIuyV~JUA6lkSoaJ3RzeJ4tzxO9kxPjo2Waj6PmhaN-ObjUmA6Y6MR3d7uE7uSONzwfaY7RRRXSRjL66S0kL3pCRp1IW12~AW6OtavIEZbjCKnG3414HR4cz4VtgYUFtRUyYHg-N87yKrzNvc9qHKU9q6qj5WrWTqoPU~nV5JbBd3djIM8sHI-WpZAAnkiniEp6oNBfOweF3IkWtg3RQTP8OzJHgb15w__"
+    },
+    "rendered_image": {
+      "type": "webp",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/033e8218-b20e-41b8-91c1-86730f5108ae/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDMzZTgyMTgtYjIwZS00MWI4LTkxYzEtODY3MzBmNTEwOGFlL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=MMYfygtaMl2rHzALzJV84j203RYUV552pa6W7L8ovbgywQwkETnLOg1BRS4iJUUgzhTzxbVbPLE-GfADeT0U2iNBQe1XwnnzH-dX0z10c1BuA3P-XRZffG~w3Bx4FeouSTQ00kY3GlV-umZHWhbln73guMB4faOmBncW1G1~AoySKMNBoptpluD-lsAOBUyS1zZg0HS~KUIGf-8EEvIW-XnC1xIDhK2tukHNN7tp7e1BGqIUJMrsK44w1XNcWkXIIUDwo81dWzsoDkOm6cruvKcHX0qvzZD~YwwM~65wE2Jb9N3gynSkPe3qmjswZbjgPk91607qqfwpgiC1zTVViw__"
+    }
+  }
+}

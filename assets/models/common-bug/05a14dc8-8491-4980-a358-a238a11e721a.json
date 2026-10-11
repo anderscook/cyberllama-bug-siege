@@ -1,0 +1,38 @@
+{
+  "task_id": "05a14dc8-8491-4980-a358-a238a11e721a",
+  "type": "text_to_model",
+  "status": "success",
+  "input": {
+    "prompt": "stylized small mechanical insect-bug creature for a sci-fi tower-defense game, six segmented legs, glossy dark red and black chitin shell, menacing glowing red eyes, compact swarm-enemy scale, readable silhouette, game-ready, clean topology, centered pivot, no text",
+    "model_version": "v3.1-20260211",
+    "texture": true,
+    "pbr": true,
+    "texture_quality": "standard",
+    "texture_alignment": "geometry",
+    "export_uv": true,
+    "face_limit": 4000,
+    "geometry_quality": "standard"
+  },
+  "output": {
+    "pbr_model": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/05a14dc8-8491-4980-a358-a238a11e721a/tripo_pbr_model_05a14dc8-8491-4980-a358-a238a11e721a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDVhMTRkYzgtODQ5MS00OTgwLWEzNTgtYTIzOGExMWU3MjFhL3RyaXBvX3Bicl9tb2RlbF8wNWExNGRjOC04NDkxLTQ5ODAtYTM1OC1hMjM4YTExZTcyMWEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=uPnxZQIhNuxqs-NnJdQVcPbyfJqOrbTuDIfEi3g2oqr6x56Wd70-kGpQKVVqP4DUuSvRV9zIJED404tTT0cZxYW3dDsY8yHPxXQk66wkQuw8onz5pciS502Gt~k-Ktjxn9TqUg-h2zNWB6O146VXFVBUdm7-3oZlpQV4i9Gc83pGm8pZZadYeswBDlzA9Ojbnw39DclLXlyH1usbDEzBSNPJF5OT3DBuDSc4kEAtI8hxa7l5BhzdPbzB87qQ6oSfq2ZCoxJBUQekglzOYuRRmTlw7nVyiV5AE3HYa9ywV0zzZBON4TViDF17ViIUMyggS7LN0lHHhj02mMvhGXt2yQ__",
+    "generated_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/05a14dc8-8491-4980-a358-a238a11e721a/text2image_05a14dc8-8491-4980-a358-a238a11e721a.jpeg?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDVhMTRkYzgtODQ5MS00OTgwLWEzNTgtYTIzOGExMWU3MjFhL3RleHQyaW1hZ2VfMDVhMTRkYzgtODQ5MS00OTgwLWEzNTgtYTIzOGExMWU3MjFhLmpwZWciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=jwYjdg3SZheqbYlH1Wr~KEoHGufuDixJf1--f9BaOfeZFV-YXfciRyMl4s3aBPWvBL7LicpdOw5wTIgRj0yVHS8on~h8KM0ujOv0olfLYv7a6geSa0pELOgWogyJFX-c3c~pWg3IbfySYx5J3mlTwo83U4krUICSKdOEH59PXb9NirEW018a4iSPisjHGnfiDn1dUH-0o7ur52Mnh4GMIHHZ7GM-R7kkPe5wP2fhE0LKezSoEyNHdDxcChg5kCtHBJNclCCRo6d~C6wctmvo8EATh~cCRYvwOa5VzOlcAbvlB6DP1Mz6tWcyZPBC0wXE7ndFk2WvPaGgl1-LBO5PEg__",
+    "rendered_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/05a14dc8-8491-4980-a358-a238a11e721a/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDVhMTRkYzgtODQ5MS00OTgwLWEzNTgtYTIzOGExMWU3MjFhL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=TSzrQk4z9wL3ab172K6AfRFoLNGehnYKFRQSrfialuC5b0VGs06dYJHgiHkrfxYz5u5i4FotE3IVps~TNFLF~KVMBbCMduNMMkMaUoEoism6dI0v2HEmnTVp1-avQw4F5m4fdCaEbLqg2ZnQ45tws2nLBxnYJMhj7bHXtMJhQqehsz~RU6bipyRdysu2usLs6OCqQpW9uNZOfn2sNad6eQobaTnWo4xfhqUouisJL4i5oNqdBX0MG61TxPjw9d5m2QuWbT1prWsKC0vSjWC7cZYRaRxFbBUITpOcTdlX0hH-Zmpl15O0keyom4lCoCxaqo2ibLtgxcQirfyhANqSgA__"
+  },
+  "progress": 100,
+  "create_time": 1791643065,
+  "consumed_credit": 20,
+  "prompt": "stylized small mechanical insect-bug creature for a sci-fi tower-defense game, six segmented legs, glossy dark red and black chitin shell, menacing glowing red eyes, compact swarm-enemy scale, readable silhouette, game-ready, clean topology, centered pivot, no text",
+  "thumbnail": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/05a14dc8-8491-4980-a358-a238a11e721a/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDVhMTRkYzgtODQ5MS00OTgwLWEzNTgtYTIzOGExMWU3MjFhL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=TSzrQk4z9wL3ab172K6AfRFoLNGehnYKFRQSrfialuC5b0VGs06dYJHgiHkrfxYz5u5i4FotE3IVps~TNFLF~KVMBbCMduNMMkMaUoEoism6dI0v2HEmnTVp1-avQw4F5m4fdCaEbLqg2ZnQ45tws2nLBxnYJMhj7bHXtMJhQqehsz~RU6bipyRdysu2usLs6OCqQpW9uNZOfn2sNad6eQobaTnWo4xfhqUouisJL4i5oNqdBX0MG61TxPjw9d5m2QuWbT1prWsKC0vSjWC7cZYRaRxFbBUITpOcTdlX0hH-Zmpl15O0keyom4lCoCxaqo2ibLtgxcQirfyhANqSgA__",
+  "queuing_num": -1,
+  "running_left_time": -1,
+  "result": {
+    "pbr_model": {
+      "type": "glb",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/05a14dc8-8491-4980-a358-a238a11e721a/tripo_pbr_model_05a14dc8-8491-4980-a358-a238a11e721a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDVhMTRkYzgtODQ5MS00OTgwLWEzNTgtYTIzOGExMWU3MjFhL3RyaXBvX3Bicl9tb2RlbF8wNWExNGRjOC04NDkxLTQ5ODAtYTM1OC1hMjM4YTExZTcyMWEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=uPnxZQIhNuxqs-NnJdQVcPbyfJqOrbTuDIfEi3g2oqr6x56Wd70-kGpQKVVqP4DUuSvRV9zIJED404tTT0cZxYW3dDsY8yHPxXQk66wkQuw8onz5pciS502Gt~k-Ktjxn9TqUg-h2zNWB6O146VXFVBUdm7-3oZlpQV4i9Gc83pGm8pZZadYeswBDlzA9Ojbnw39DclLXlyH1usbDEzBSNPJF5OT3DBuDSc4kEAtI8hxa7l5BhzdPbzB87qQ6oSfq2ZCoxJBUQekglzOYuRRmTlw7nVyiV5AE3HYa9ywV0zzZBON4TViDF17ViIUMyggS7LN0lHHhj02mMvhGXt2yQ__"
+    },
+    "rendered_image": {
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/05a14dc8-8491-4980-a358-a238a11e721a/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvMDVhMTRkYzgtODQ5MS00OTgwLWEzNTgtYTIzOGExMWU3MjFhL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=TSzrQk4z9wL3ab172K6AfRFoLNGehnYKFRQSrfialuC5b0VGs06dYJHgiHkrfxYz5u5i4FotE3IVps~TNFLF~KVMBbCMduNMMkMaUoEoism6dI0v2HEmnTVp1-avQw4F5m4fdCaEbLqg2ZnQ45tws2nLBxnYJMhj7bHXtMJhQqehsz~RU6bipyRdysu2usLs6OCqQpW9uNZOfn2sNad6eQobaTnWo4xfhqUouisJL4i5oNqdBX0MG61TxPjw9d5m2QuWbT1prWsKC0vSjWC7cZYRaRxFbBUITpOcTdlX0hH-Zmpl15O0keyom4lCoCxaqo2ibLtgxcQirfyhANqSgA__",
+      "type": "webp"
+    }
+  }
+}

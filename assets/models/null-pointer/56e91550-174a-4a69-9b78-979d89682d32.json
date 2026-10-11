@@ -1,0 +1,38 @@
+{
+  "task_id": "56e91550-174a-4a69-9b78-979d89682d32",
+  "type": "text_to_model",
+  "status": "success",
+  "input": {
+    "prompt": "stylized glitching crystalline sci-fi creature for a tower-defense game, angular faceted violet-purple core with floating broken shard fragments orbiting it, glowing violet energy cracks, ghostly unstable digital-glitch silhouette, compact enemy scale, readable silhouette, game-ready, centered pivot, no text",
+    "model_version": "v3.1-20260211",
+    "texture": true,
+    "pbr": true,
+    "texture_quality": "standard",
+    "texture_alignment": "geometry",
+    "export_uv": true,
+    "face_limit": 4000,
+    "geometry_quality": "standard"
+  },
+  "output": {
+    "pbr_model": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/56e91550-174a-4a69-9b78-979d89682d32/tripo_pbr_model_56e91550-174a-4a69-9b78-979d89682d32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTZlOTE1NTAtMTc0YS00YTY5LTliNzgtOTc5ZDg5NjgyZDMyL3RyaXBvX3Bicl9tb2RlbF81NmU5MTU1MC0xNzRhLTRhNjktOWI3OC05NzlkODk2ODJkMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=C34ILpwBpLOGSBbsYwdvGfyimA2BAQd40qcKqG--LHw151QkV4yM1LKIf8jyhiyoW7W9hzZpioZSTZZHSqFuP1ccchzxtPKj9pi3cJGas2xESBc~AlVSQxB4SaI9C6pKhrilA9V3cb6RtYf8SsFPuQJY3OQiZFf53dIdCjAtlIDjllcdn333W368BiHcfh76FXnnpgeSVS3~eNmdasawOzHZNx8qWojZ5FuWBA5hnsUz21AlSEQq1aumNf4NVG9oIv7Cmf3elZFZAgkGEj85nRXZRyM6Uj7GfWe6OOIZByDDiatNn1gTKZc46k7cVdGu2vO~dVBWgRBtAsg9EnqToA__",
+    "generated_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/56e91550-174a-4a69-9b78-979d89682d32/text2image_56e91550-174a-4a69-9b78-979d89682d32.jpeg?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTZlOTE1NTAtMTc0YS00YTY5LTliNzgtOTc5ZDg5NjgyZDMyL3RleHQyaW1hZ2VfNTZlOTE1NTAtMTc0YS00YTY5LTliNzgtOTc5ZDg5NjgyZDMyLmpwZWciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=Mm8f63H-euwikLRxvZ7BJdvbZ0l4Y7pDLKzNk-LCCWR61nHUIDdjZO~cGOJXzCq20x8v2bRZLJ3cyD22ttmdQwGgIuW07D7PerWUIdx0BMPAooO8ptgntMR2A38x5LZr1w9lP0dyk2wtJ2EEYYqf-P~ySZTTDoS4qkqGI1fU4vwMIak5oT8qsBW0GxPDHGQt1e9qAStLxOmhukA489yC-7~Zhk1M0BkHNPPQdR8Eh468dzYBYV4gjscc-iAicNLHvfiWnpmZ50AF9g4cxW9LiMqoNhEdc4RkbeNDcWZenjJMcgmYKCbAu8Npnkw~K58E7y7x-WWv4e6XzeZgEC-nDg__",
+    "rendered_image": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/56e91550-174a-4a69-9b78-979d89682d32/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTZlOTE1NTAtMTc0YS00YTY5LTliNzgtOTc5ZDg5NjgyZDMyL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=udl6zi-AmdDwzLXpM4V5ubr12jgVqy0OTuO1h3-04myJVkW~N5VZw3LF8k230n6vxJC-6ufzSkjzfs3-ue9qX3hp2OBmOuMLpoxloBLdGLYz2pNmuZPqijGuxO8sL0YCWOO4RKGkwDZMKpzi397-6temafqd3iWcurFEGG0TP-TW2f9EdyCcdk3hR1cMERnyReit7I5OOxFqqt3fn-AoM7P2AXDAV7oxqp8IwV2oidc03vjxnkpx0IPsFazyUJiEUr8vtfvqNsZLtB0Rn4ScSDbVik4I4Lr19ADiDXZ912qUyPKZ7RGNXJ~cWbQTa3mwsFA7nJ7MRvX2m5Hp8UsaNQ__"
+  },
+  "progress": 100,
+  "create_time": 1791643202,
+  "consumed_credit": 20,
+  "prompt": "stylized glitching crystalline sci-fi creature for a tower-defense game, angular faceted violet-purple core with floating broken shard fragments orbiting it, glowing violet energy cracks, ghostly unstable digital-glitch silhouette, compact enemy scale, readable silhouette, game-ready, centered pivot, no text",
+  "thumbnail": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/56e91550-174a-4a69-9b78-979d89682d32/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTZlOTE1NTAtMTc0YS00YTY5LTliNzgtOTc5ZDg5NjgyZDMyL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=udl6zi-AmdDwzLXpM4V5ubr12jgVqy0OTuO1h3-04myJVkW~N5VZw3LF8k230n6vxJC-6ufzSkjzfs3-ue9qX3hp2OBmOuMLpoxloBLdGLYz2pNmuZPqijGuxO8sL0YCWOO4RKGkwDZMKpzi397-6temafqd3iWcurFEGG0TP-TW2f9EdyCcdk3hR1cMERnyReit7I5OOxFqqt3fn-AoM7P2AXDAV7oxqp8IwV2oidc03vjxnkpx0IPsFazyUJiEUr8vtfvqNsZLtB0Rn4ScSDbVik4I4Lr19ADiDXZ912qUyPKZ7RGNXJ~cWbQTa3mwsFA7nJ7MRvX2m5Hp8UsaNQ__",
+  "queuing_num": -1,
+  "running_left_time": -1,
+  "result": {
+    "pbr_model": {
+      "type": "glb",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/56e91550-174a-4a69-9b78-979d89682d32/tripo_pbr_model_56e91550-174a-4a69-9b78-979d89682d32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTZlOTE1NTAtMTc0YS00YTY5LTliNzgtOTc5ZDg5NjgyZDMyL3RyaXBvX3Bicl9tb2RlbF81NmU5MTU1MC0xNzRhLTRhNjktOWI3OC05NzlkODk2ODJkMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjc2ODAwfX19XX0_&Signature=C34ILpwBpLOGSBbsYwdvGfyimA2BAQd40qcKqG--LHw151QkV4yM1LKIf8jyhiyoW7W9hzZpioZSTZZHSqFuP1ccchzxtPKj9pi3cJGas2xESBc~AlVSQxB4SaI9C6pKhrilA9V3cb6RtYf8SsFPuQJY3OQiZFf53dIdCjAtlIDjllcdn333W368BiHcfh76FXnnpgeSVS3~eNmdasawOzHZNx8qWojZ5FuWBA5hnsUz21AlSEQq1aumNf4NVG9oIv7Cmf3elZFZAgkGEj85nRXZRyM6Uj7GfWe6OOIZByDDiatNn1gTKZc46k7cVdGu2vO~dVBWgRBtAsg9EnqToA__"
+    },
+    "rendered_image": {
+      "type": "webp",
+      "url": "https://tripo-data.rg1.data.tripo3d.com/tcli_2eb6321ec9064e62931193898922d52d/20261010/56e91550-174a-4a69-9b78-979d89682d32/legacy_mesh.webp?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMmViNjMyMWVjOTA2NGU2MjkzMTE5Mzg5ODkyMmQ1MmQvMjAyNjEwMTAvNTZlOTE1NTAtMTc0YS00YTY5LTliNzgtOTc5ZDg5NjgyZDMyL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2NzY4MDB9fX1dfQ__&Signature=udl6zi-AmdDwzLXpM4V5ubr12jgVqy0OTuO1h3-04myJVkW~N5VZw3LF8k230n6vxJC-6ufzSkjzfs3-ue9qX3hp2OBmOuMLpoxloBLdGLYz2pNmuZPqijGuxO8sL0YCWOO4RKGkwDZMKpzi397-6temafqd3iWcurFEGG0TP-TW2f9EdyCcdk3hR1cMERnyReit7I5OOxFqqt3fn-AoM7P2AXDAV7oxqp8IwV2oidc03vjxnkpx0IPsFazyUJiEUr8vtfvqNsZLtB0Rn4ScSDbVik4I4Lr19ADiDXZ912qUyPKZ7RGNXJ~cWbQTa3mwsFA7nJ7MRvX2m5Hp8UsaNQ__"
+    }
+  }
+}
