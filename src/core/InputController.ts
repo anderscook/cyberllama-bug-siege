@@ -128,12 +128,28 @@ export class InputController {
     event.preventDefault();
     this.repairHeld = false;
   };
+  private readonly onTowerGatlingDown = (event: PointerEvent) => {
+    event.preventDefault();
+    this.pendingDigit = '1';
+  };
+  private readonly onTowerRailgunDown = (event: PointerEvent) => {
+    event.preventDefault();
+    this.pendingDigit = '2';
+  };
 
   constructor(
     private readonly canvas: HTMLCanvasElement,
     private readonly moveStickElements: { stick: HTMLElement; knob: HTMLElement },
     private readonly lookStickElements: { stick: HTMLElement; knob: HTMLElement },
-    touchButtons: { fire: HTMLElement; jump: HTMLElement; dash: HTMLElement; build: HTMLElement; repair: HTMLElement },
+    touchButtons: {
+      fire: HTMLElement;
+      jump: HTMLElement;
+      dash: HTMLElement;
+      build: HTMLElement;
+      repair: HTMLElement;
+      towerGatling: HTMLElement;
+      towerRailgun: HTMLElement;
+    },
   ) {
     window.addEventListener('keydown', this.onKeyDown);
     window.addEventListener('keyup', this.onKeyUp);
@@ -164,6 +180,8 @@ export class InputController {
     touchButtons.repair.addEventListener('pointerup', this.onRepairUp);
     touchButtons.repair.addEventListener('pointercancel', this.onRepairUp);
     touchButtons.repair.addEventListener('pointerleave', this.onRepairUp);
+    touchButtons.towerGatling.addEventListener('pointerdown', this.onTowerGatlingDown);
+    touchButtons.towerRailgun.addEventListener('pointerdown', this.onTowerRailgunDown);
   }
 
   readMovement(target: THREE.Vector2): THREE.Vector2 {

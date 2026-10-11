@@ -1,4 +1,5 @@
 import type { WavePhase } from './WaveManager';
+import type { TowerKind } from '../game/GameConfig';
 
 export type HudState = {
   mainframeHp: number;
@@ -13,6 +14,7 @@ export type HudState = {
   weaponName: string;
   cooldownFraction: number;
   buildMode: boolean;
+  selectedTowerKind: TowerKind;
   bossHp: number | null;
   bossMaxHp: number | null;
   prompt: string | null;
@@ -35,6 +37,9 @@ export class Hud {
   private readonly endTitle = this.getElement('#end-title');
   private readonly endSubtitle = this.getElement('#end-subtitle');
   private readonly buildHint = this.getElement('#build-hint');
+  private readonly towerSelect = this.getElement('#tower-select');
+  private readonly towerSelectGatling = this.getElement('#select-gatling-button');
+  private readonly towerSelectRailgun = this.getElement('#select-railgun-button');
 
   update(state: HudState): void {
     const mainframeFraction = Math.max(0, state.mainframeHp / state.mainframeMaxHp);
@@ -63,6 +68,9 @@ export class Hud {
     this.promptBanner.textContent = state.prompt ?? '';
     this.promptBanner.classList.toggle('visible', Boolean(state.prompt));
     this.buildHint.classList.toggle('visible', state.buildMode);
+    this.towerSelect.classList.toggle('visible', state.buildMode);
+    this.towerSelectGatling.classList.toggle('selected', state.selectedTowerKind === 'gatling-cannon');
+    this.towerSelectRailgun.classList.toggle('selected', state.selectedTowerKind === 'railgun');
 
     if (state.bossHp !== null && state.bossMaxHp) {
       this.bossBar.classList.add('visible');

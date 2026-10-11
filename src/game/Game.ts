@@ -140,6 +140,8 @@ export class Game {
         dash: this.getElement('#dash-button'),
         build: this.getElement('#build-button'),
         repair: this.getElement('#repair-button'),
+        towerGatling: this.getElement('#select-gatling-button'),
+        towerRailgun: this.getElement('#select-railgun-button'),
       },
     );
 
@@ -482,6 +484,7 @@ export class Game {
       weaponName: this.weaponSystem.weaponName(),
       cooldownFraction: this.weaponSystem.cooldownFraction(),
       buildMode: this.buildSystem.buildMode,
+      selectedTowerKind: this.selectedTowerKind,
       bossHp: boss ? boss.hp : null,
       bossMaxHp: boss ? boss.maxHp : null,
       prompt,
